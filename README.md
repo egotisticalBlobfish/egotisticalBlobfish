@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I still have rusty coding skills 
 ### Struggling in css atm
-![alt text]([[http://url/to/img.png](https://giphy.com/gifs/transparent-lexlantana-58UkH3Ca5dnRVxaDGF)](https://media2.giphy.com/media/58UkH3Ca5dnRVxaDGF/giphy.gif))
+https://media2.giphy.com/media/58UkH3Ca5dnRVxaDGF/giphy.gif
 
 <!--
 **egotisticalBlobfish/egotisticalBlobfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
